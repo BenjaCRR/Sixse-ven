@@ -4,3 +4,8 @@ body {
     min-height: 100vh;
     background-color: #d62222;
 }
+
+.row {
+    gap: 12px;
+    margin: 0
+}
