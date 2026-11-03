@@ -5,9 +5,10 @@ body {
     background-color: #d62222;
 }
 body.tema1 {
-    margin: 0;
-    min-height: 100vh;
-    background-color: #2c2380;
+  background: linear-gradient(to bottom, #251085, #1a1a1a);
+  background-attachment: fixed;
+  min-height: 100vh;
+  color: #e4dbdb;
 }
 body.tema2 {
     margin: 0;
