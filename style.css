@@ -62,3 +62,21 @@ body.tema4 {
   color: #ff6b6b; 
 }
 
+.accordion-icon {
+  width: 16px;   /* Evita que se estire por toda la pantalla */
+  height: 16px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: auto; /* Mueve la flecha hacia el extremo derecho */
+}
+
+/* Opcional: Para que el header del acordeón quede alineado y prolijo */
+.accordion-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  cursor: pointer;
+  user-select: none;
+  background-color: #aea6f3;
+}
