@@ -5,44 +5,6 @@ body {
     background-color: #d62222;
 }
 
-<<<<<<< HEAD
-.row {
-    gap: 12px;
-    margin: 0
-}
-
-.mi-footer {
-  background-color: #1a1a1a;
-  color: #ffffff;
-  padding: 30px 0;
-  width: 100%;
-}
-
-.mi-footer .container {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 0 20px;
-}
-
-.footer-contenido {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 15px;
-}
-
-.footer-enlaces a {
-  color: #aaaaaa; 
-  text-decoration: none;
-  margin-left: 20px;
-  transition: color 0.3s ease; 
-}
-
-.footer-enlaces a:hover {
-  color: #ff6b6b; 
-}
-=======
 .container-narrow {
     max-width: 860px;
 }
@@ -58,4 +20,5 @@ body {
         height: 180px;
     }
 }
->>>>>>> c362d64c85d3749e63fa9924521eedf63aab32bc
+
+
