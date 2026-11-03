@@ -5,7 +5,18 @@ body {
     background-color: #d62222;
 }
 
-.row {
-    gap: 12px;
-    margin: 0
+.container-narrow {
+    max-width: 860px;
+}
+
+.card-img-fija {
+    height: 220px;
+    width: 100%;
+    object-fit: cover;
+}
+
+@media (max-width: 767.98px) {
+    .card-img-fija {
+        height: 180px;
+    }
 }
