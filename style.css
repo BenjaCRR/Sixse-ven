@@ -5,6 +5,7 @@ body {
     background-color: #d62222;
 }
 
+<<<<<<< HEAD
 .row {
     gap: 12px;
     margin: 0
@@ -41,3 +42,20 @@ body {
 .footer-enlaces a:hover {
   color: #ff6b6b; 
 }
+=======
+.container-narrow {
+    max-width: 860px;
+}
+
+.card-img-fija {
+    height: 220px;
+    width: 100%;
+    object-fit: cover;
+}
+
+@media (max-width: 767.98px) {
+    .card-img-fija {
+        height: 180px;
+    }
+}
+>>>>>>> c362d64c85d3749e63fa9924521eedf63aab32bc
