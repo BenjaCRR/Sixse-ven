@@ -10,6 +10,16 @@ body.tema1 {
   min-height: 100vh;
   color: #e4dbdb;
 }
+
+.fondo-azul {
+    background: linear-gradient(to bottom, #171717, #251085, #171717);
+}
+
+.fondo-negro {
+    background-color: #171717;
+}
+
+
 body.tema2 {
     margin: 0;
     min-height: 100vh;
