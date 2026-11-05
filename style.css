@@ -33,7 +33,6 @@ body.tema3 {
   color: #e4dbdb;
 }
  
-/* Secciones: la del medio usa .fondo-negro (ya existe en tu CSS) */
 body.tema3 main section {
   padding: 4rem 0;
 }
@@ -128,4 +127,11 @@ body.tema4 {
   user-select: none;
   color:#e4dbdb;
   background-color: #4104b3;
+}
+
+.card-img-top {
+  width: 100%;
+  aspect-ratio: 1 / 1;      /* la hace cuadrada; la del gato ya es casi cuadrada */
+  object-fit: cover;        /* recorta en vez de deformar */
+  object-position: center 30%;  /* mantiene la parte de arriba (la cara) */
 }
