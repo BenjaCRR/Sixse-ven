@@ -19,6 +19,9 @@ body.tema1 {
     background-color: #171717;
 }
 
+.fondo-rojo {
+  background-color: rgb(190, 12, 12);
+}
 
 body.tema2 {
     margin: 0;
