@@ -23,35 +23,21 @@ body.tema1 {
   background-color: rgb(190, 12, 12);
 }
 
+
+
 body.tema2 {
-    color: #222222;
+  background: linear-gradient(to bottom, #d8b52e, #1a1a1a);
+  background-attachment: fixed;
+  min-height: 100vh;
+  color: #e4dbdb;
 }
 
-.tema2 .fondo-azul {
-    background-color: #d8d0bd;
+.tema2 .fondo-amarillo {
+    background: linear-gradient(to bottom, #3e85e2, #a8a7a7);
 }
 
 .tema2 .fondo-negro {
-    background-color: #282722;
-}
-
-.tema2 .content-panel {
-    background-color: #f0eadc;
-    color: #222222;
-}
-
-.tema2 .content-panel h2 {
-    color: #743c32;
-}
-
-.tema2 .accordion-item {
-    background-color: #f0eadc;
-    color: #222222;
-}
-
-.tema2 .accordion-header {
-    background-color: #c9bda5;
-    color: #222222;
+    background-color: #3c6277;
 }
 
 body.tema3 {
