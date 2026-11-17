@@ -146,7 +146,21 @@ body.tema4 {
 
 .card-img-top {
   width: 100%;
-  aspect-ratio: 1 / 1;      /* la hace cuadrada; la del gato ya es casi cuadrada */
-  object-fit: cover;        /* recorta en vez de deformar */
-  object-position: center 30%;  /* mantiene la parte de arriba (la cara) */
+  aspect-ratio: 1 / 1;  
+  object-fit: cover;      
+  object-position: center 30%; 
+}
+
+
+.bbh {
+  font-family: "BBH Bogle", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.exo-2 {
+  font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
 }
