@@ -10,6 +10,11 @@ body.tema1 {
   min-height: 100vh;
   color: #e4dbdb;
 }
+.btn-ado {
+  background-color: #2f1296;
+  color: #ffffff;
+  border: none;
+}
 
 .fondo-azul {
     background: linear-gradient(to bottom, #171717, #251085, #171717);
@@ -39,7 +44,11 @@ body.tema2 {
 .tema2 .fondo-negro {
     background-color: #3c6277;
 }
-
+.btn-lpda {
+  background-color: #996d0e;
+  color: #ffffff;
+  border: none;
+}
 body.tema3 {
   margin: 0;
   min-height: 100vh;
